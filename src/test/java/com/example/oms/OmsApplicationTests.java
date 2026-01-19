@@ -1,10 +1,10 @@
-package com.example.OrderManagementSystem;
+package com.example.oms;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class OrderManagementSystemApplicationTests {
+class OmsApplicationTests {
 
 	@Test
 	void contextLoads() {
